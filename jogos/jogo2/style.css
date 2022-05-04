@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap%27'); 
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto:wght@900&display=swap');
+
+.titulo {
+  font-family: 'Anton';
+  font-size: 50px;
+}
+
+/* salvar */
+.game_page_out {
+  margin: 70px 80px;
+  padding: 50px 40px;
+  background-color: #151C35;
+  color: white;
+}
+
+.comentarios {
+  font-family: 'anton';
+  background-color: #0c0d22;
+  color: white;
+  padding: 15px;
+}
+
+.escrever_coment {
+  width: 100%;
+  color: white;
+  border: 1px solid black;
+  background-color: #0c0d22;
+}
+
+.instancia_comentarios {
+  margin-bottom: 1.5em;
+}
